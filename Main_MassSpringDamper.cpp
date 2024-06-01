@@ -3,5 +3,5 @@
 
 int main()
 {
-		std::cout << "develop‚Å‚©‚¢‚Í‚Â" << std::endl;
+		std::cout << "develop2‚ÅƒeƒXƒg" << std::endl;
 };
