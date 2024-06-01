@@ -1,23 +1,23 @@
-////////// aaa ////////// 
+////////// aabbbbbbbba ////////// 
 
 #include "MSDParaSet.h"
 
-/////  ƒƒ\ƒbƒh‚Ì’è‹`@///// 
+/////  ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Ì’ï¿½`ï¿½@///// 
 
-// ƒRƒ“ƒXƒgƒ‰ƒNƒ^ //
+// ï¿½Rï¿½ï¿½ï¿½Xï¿½gï¿½ï¿½ï¿½Nï¿½^ //
 MSDParaSET::MSDParaSET(float x0_, float dx0_) {
 	x0 = x0_;
 	dx0 = dx0_;
-	std::cout << "‰Šú•ÏˆÊ " <<  x0 << " [m] " << std::endl;
-	std::cout << "‰Šú‘¬“x " << dx0 << " [m/s]" << std::endl;
+	std::cout << "ï¿½ï¿½ï¿½ï¿½ï¿½Ïˆï¿½ " <<  x0 << " [m] " << std::endl;
+	std::cout << "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½x " << dx0 << " [m/s]" << std::endl;
 }
 
-// ƒpƒ‰ƒ[ƒ^ƒZƒbƒg //
+// ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½^ï¿½Zï¿½bï¿½g //
 void MSDParaSET::Setparameter() {
 	std::cout << "SET" << std::endl;
 }
 
-// ’è‹`ƒpƒ‰ƒ[ƒ^‚Ì’è‹` //
+// ï¿½ï¿½`ï¿½pï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½^ï¿½Ì’ï¿½` //
 void MSDParaSET::Printparameter() {
 	std::cout << x0 << std::endl;
 }
