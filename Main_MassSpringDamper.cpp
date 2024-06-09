@@ -3,5 +3,5 @@
 
 int main()
 {
-		std::cout << "develop2でテスト" << std::endl;
+		std::cout << "CIテスト" << std::endl;
 };
