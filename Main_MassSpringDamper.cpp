@@ -3,5 +3,5 @@
 
 int main()
 {
-		std::cout << "CIテスト" << std::endl;
+		std::cout << "CIテスト2" << std::endl;
 };
