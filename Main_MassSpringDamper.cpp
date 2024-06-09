@@ -3,5 +3,5 @@
 
 int main()
 {
-		std::cout << "CIテスト0609" << std::endl;
+		std::cout << "CIテスト0609 18:56" << std::endl;
 };

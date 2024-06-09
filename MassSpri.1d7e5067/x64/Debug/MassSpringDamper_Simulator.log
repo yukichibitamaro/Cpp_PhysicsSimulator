@@ -1,5 +1,2 @@
-﻿  MSDPara.cpp
-C:\Users\yuyas\Documents\02_Source_Code\Cpp\MSDPara.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-  Main_MassSpringDamper.cpp
-  コードを生成中...
+﻿  Main_MassSpringDamper.cpp
   MassSpringDamper_Simulator.vcxproj -> C:\Users\yuyas\Documents\02_Source_Code\Cpp\x64\Debug\MassSpringDamper_Simulator.exe
